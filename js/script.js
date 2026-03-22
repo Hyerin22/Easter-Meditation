@@ -42,12 +42,15 @@ function updateContent() {
       : meditationData["ko"][day];
 
   if (data) {
-    document.getElementById("display-title").innerText = data.title;
+    document.getElementById("display-main-title").innerText = data.enTitle;
+    document.getElementById("display-sub-title").innerText =
+      `PASSION WEEK • ${data.date}`;
+
     document.getElementById("display-scripture").innerText = data.scripture;
     document.getElementById("display-text").innerText = data.text;
 
     // Update browser tab title
-    document.title = `${data.title} - Meditation`;
+    document.title = `${data.enTitle} - Meditation`;
   } else {
     console.error("Content not found for day:", day);
     // Fallback title if data is missing

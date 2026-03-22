@@ -1,0 +1,117 @@
+body {
+  font-family: "Noto Sans KR", "Segoe UI", sans-serif;
+  background-color: #fdfbf7; /* 부드러운 미색 배경 */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* container: mobile size */
+.container {
+  width: 100%;
+  max-width: 500px;
+  padding: 40px 25px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* lang drop down */
+.header {
+  text-align: right;
+  margin-bottom: 40px;
+}
+
+/* #lang-select {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+} */
+
+.header {
+  text-align: right;
+  margin-bottom: 40px;
+}
+
+select#lang-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  padding: 5px 35px 8px 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 14px;
+  color: #555;
+  font-family: inherit;
+
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23AAAAAA%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 10px auto;
+
+  cursor: pointer;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+select#lang-select:focus {
+  border-color: #a0a0a0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+
+select#lang-select {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* title */
+.title-block {
+  margin-bottom: 30px;
+}
+
+#display-main-title {
+  font-family: "serif";
+  font-size: 42px;
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+
+.sub-title {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 2px; /* 자간을 넓혀서 세련되게 */
+  text-transform: uppercase; /* 대문자로 고정 */
+  margin-top: 10px;
+  color: #555;
+}
+
+.scripture {
+  font-style: italic;
+  color: #777;
+  font-size: 16px;
+  margin-bottom: 20px;
+  word-break: keep-all;
+}
+
+/* divider */
+hr {
+  border: 0;
+  height: 1px;
+  background: #eee;
+  margin: 30px 0;
+}
+
+/* body text */
+.meditation-text {
+  text-align: left;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-break: keep-all;
+  color: #444;
+  padding: 0px 20px 0px 20px;
+}

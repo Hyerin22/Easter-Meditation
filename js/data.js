@@ -1,33 +1,333 @@
 const meditationData = {
-  // English Section (필요시 내용을 채워넣으세요)
+  // English Section
   en: {
     "Palm-Sunday": {
       enTitle: "Palm Sunday",
       date: "MARCH 29",
-      scripture: "",
-      text: "",
+      scripture: "Matthew 21:1-11, Luke 19:28-40",
+      text: `[Matthew 21:1-11]
+1) Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
+
+2) saying to them, “Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.
+
+3) If anyone says anything to you, you shall say, ‘The Lord needs them,’ and he will send them at once.”
+
+4) This took place to fulfill what was spoken by the prophet, saying,
+
+5) “Say to the daughter of Zion, ‘Behold, your king is coming to you, humble, and mounted on a donkey, on a colt, the foal of a beast of burden.’”
+
+6) The disciples went and did as Jesus had directed them.
+
+7) They brought the donkey and the colt and put on them their cloaks, and he sat on them.
+
+8) Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road.
+
+9) And the crowds that went before him and that followed him were shouting, “Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”
+
+10) And when he entered Jerusalem, the whole city was stirred up, saying, “Who is this?”
+
+11) And the crowds said, “This is the prophet Jesus, from Nazareth of Galilee.”
+
+
+[Luke 19:28-40]
+28) And when he had said these things, he went on ahead, going up to Jerusalem.
+
+29) When he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
+
+30) saying, “Go into the village in front of you, where on entering you will find a colt tied, on which no one has ever yet sat. Untie it and bring it here.
+
+31) If anyone asks you, ‘Why are you untying it?’ you shall say this: ‘The Lord has need of it.’”
+
+32) So those who were sent went away and found it just as he had told them.
+
+33) And as they were untying the colt, its owners said to them, “Why are you untying the colt?”
+
+34) And they said, “The Lord has need of it.”
+
+35) And they brought it to Jesus, and throwing their cloaks on the colt, they set Jesus on it.
+
+36) And as he rode along, they spread their cloaks on the road.
+
+37) As he was drawing near—already on the way down the Mount of Olives—the whole multitude of his disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen,
+
+38) saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
+
+39) And some of the Pharisees in the crowd said to him, “Teacher, rebuke your disciples.”
+
+40) He answered, “I tell you, if these were silent, the very stones would cry out.”`,
     },
-    Monday: { enTitle: "Monday", date: "MARCH 30", scripture: "", text: "" },
-    Tuesday: { enTitle: "Tuesday", date: "MARCH 31", scripture: "", text: "" },
+    Monday: {
+      enTitle: "Monday",
+      date: "MARCH 30",
+      scripture: "Matthew 21:12-14, 21:18-21",
+      text: `[Matthew 21:12-14]
+12) And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons.
+
+13) He said to them, “It is written, ‘My house shall be called a house of prayer,’ but you make it a den of robbers.”
+
+14) And the blind and the lame came to him in the temple, and he healed them.
+
+
+[Matthew 21:18-21]
+18) In the morning, as he was returning to the city, he became hungry.
+
+19) And seeing a fig tree by the wayside, he went to it and found nothing on it but only leaves. And he said to it, “May no fruit ever come from you again!” And the fig tree withered at once.
+
+20) When the disciples saw it, they marveled, saying, “How did the fig tree wither at once?”
+
+21) And Jesus answered them, “Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.”`,
+    },
+    Tuesday: {
+      enTitle: "Tuesday",
+      date: "MARCH 31",
+      scripture: "Matthew 21:23-27, Mark 12:28-44",
+      text: `[Matthew 21:23-27]
+23) And when he entered the temple, the chief priests and the elders of the people came up to him as he was teaching, and said, “By what authority are you doing these things, and who gave you this authority?”
+
+24) Jesus answered them, “I also will ask you one question, and if you tell me the answer, then I also will tell you by what authority I do these things.
+
+25) The baptism of John, from where did it come? From heaven or from man?” And they discussed it among themselves, saying, “If we say, ‘From heaven,’ he will say to us, ‘Why then did you not believe him?’
+
+26) But if we say, ‘From man,’ we are afraid of the crowd, for they all hold that John was a prophet.”
+
+27) So they answered Jesus, “We do not know.” And he said to them, “Neither will I tell you by what authority I do these things.”
+
+
+[Mark 12:28-44]
+28) And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, “Which commandment is the most important of all?”
+
+29) Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one.
+
+30) And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
+
+31) The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”
+
+32) And the scribe said to him, “You are right, Teacher. You have truly said that he is one, and there is no other besides him.
+
+33) And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices.”
+
+34) And when Jesus saw that he answered wisely, he said to him, “You are not far from the kingdom of God.”
+
+35) And as Jesus taught in the temple, he said, “How can the scribes say that the Christ is the son of David?
+
+36) David himself, in the Holy Spirit, declared, “‘The Lord said to my Lord, “Sit at my right hand, until I put your enemies under your feet.”’
+
+37) David himself calls him Lord. So how is he his son?” And the great throng heard him gladly.
+
+38) And in his teaching he said, “Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces
+
+39) and have the best seats in the synagogues and the places of honor at feasts,
+
+40) who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”
+
+41) And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums.
+
+42) And a poor widow came and put in two small copper coins, which make a penny.
+
+43) And he called his disciples to him and said to them, “Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box.
+
+44) For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on.”`,
+    },
     Wednesday: {
       enTitle: "Wednesday",
       date: "APRIL 1",
-      scripture: "",
-      text: "",
+      scripture: "Matthew 26:14-16, John 13:3-11",
+      text: `[Matthew 26:14-16]
+14) Then one of the twelve, whose name was Judas Iscariot, went to the chief priests
+
+15) and said, “What will you give me if I deliver him over to you?” And they paid him thirty pieces of silver.
+
+16) And from that moment he sought an opportunity to betray him.
+
+
+[John 13:3-11]
+3) Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going back to God,
+
+4) rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist.
+
+5) Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was wrapped around him.
+
+6) He came to Simon Peter, who said to him, “Lord, do you wash my feet?”
+
+7) Jesus answered him, “What I am doing you do not understand now, but afterward you will understand.”
+
+8) Peter said to him, “You shall never wash my feet.” Jesus answered him, “If I do not wash you, you have no share with me.”
+
+9) Simon Peter said to him, “Lord, not my feet only but also my hands and my head!”
+
+10) Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”
+
+11) For he knew who was to betray him; that was why he said, “Not all of you are clean.”`,
     },
-    Thursday: { enTitle: "Thursday", date: "APRIL 2", scripture: "", text: "" },
+    Thursday: {
+      enTitle: "Thursday",
+      date: "APRIL 2",
+      scripture: "Matthew 26:17-29, Mark 14:12-25",
+      text: `[Matthew 26:17-29]
+17) Now on the first day of Unleavened Bread the disciples came to Jesus, saying, “Where will you have us prepare for you to eat the Passover?”
+
+18) He said, “Go into the city to a certain man and say to him, ‘The Teacher says, My time is at hand. I will keep the Passover at your house with my disciples.’”
+
+19) And the disciples did as Jesus had directed them, and they prepared the Passover.
+
+20) When it was evening, he reclined at table with the twelve.
+
+21) And as they were eating, he said, “Truly, I say to you, one of you will betray me.”
+
+22) And they were very sorrowful and began to say to him one after another, “Is it I, Lord?”
+
+23) He answered, “He who has dipped his hand in the dish with me will betray me.
+
+24) The Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”
+
+25) Judas, who would betray him, answered, “Is it I, Rabbi?” He said to him, “You have said so.”
+
+26) Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.”
+
+27) And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you,
+
+28) for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
+
+29) I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.”
+
+
+[Mark 14:12-25]
+12) And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?”
+
+13) And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him,
+
+14) and wherever he enters, say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’
+
+15) And he will show you a large upper room furnished and ready; there prepare for us.”
+
+16) And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
+
+17) And when it was evening, he came with the twelve.
+
+18) And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.”
+
+19) They began to be sorrowful and to say to him one after another, “Is it I?”
+
+20) He said to them, “It is one of the twelve, one who is dipping bread into the dish with me.
+
+21) For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”
+
+22) And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”
+
+23) And he took a cup, and when he had given thanks he gave it to them, and they all drank of it.
+
+24) And he said to them, “This is my blood of the covenant, which is poured out for many.”
+
+25) Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”`,
+    },
     "Good-Friday": {
       enTitle: "Good Friday",
       date: "APRIL 3",
-      scripture: "",
-      text: "",
+      scripture: "Matthew 26:47-49, 27:27-31, Luke 23:44-47",
+      text: `[Matthew 26:47-49]
+47) While he was still speaking, Judas came, one of the twelve, and with him a great crowd with swords and clubs, from the chief priests and the elders of the people.
+
+48) Now the betrayer had given them a sign, saying, “The one I will kiss is the man; seize him.”
+
+49) And he came up to Jesus at once and said, “Greetings, Rabbi!” And he kissed him.
+
+
+[Matthew 27:27-31]
+27) Then the soldiers of the governor took Jesus into the governor's headquarters, and they gathered the whole battalion before him.
+
+28) And they stripped him and put a scarlet robe on him,
+
+29) and twisting together a crown of thorns, they put it on his head and put a reed in his right hand. And kneeling before him, they mocked him, saying, “Hail, King of the Jews!”
+
+30) And they spit on him and took the reed and struck him on the head.
+
+31) And when they had mocked him, they stripped him of the robe and put his own clothes on him and led him away to crucify him.
+
+
+[Luke 23:44-47]
+44) It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,
+
+45) while the sun's light failed. And the curtain of the temple was torn in two.
+
+46) Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last.
+
+47) Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”`,
     },
-    Saturday: { enTitle: "Saturday", date: "APRIL 4", scripture: "", text: "" },
+    Saturday: {
+      enTitle: "Saturday",
+      date: "APRIL 4",
+      scripture: "Matthew 27:57-66",
+      text: `[Matthew 27:57-66]
+57) When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus.
+
+58) He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him.
+
+59) And Joseph took the body and wrapped it in a clean linen shroud
+
+60) and laid it in his own new tomb, which he had cut in the rock. And he rolled a great stone to the entrance of the tomb and went away.
+
+61) Mary Magdalene and the other Mary were there, sitting opposite the tomb.
+
+62) The next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate
+
+63) and said, “Sir, we remember how that impostor said, while he was still alive, ‘After three days I will rise.’
+
+64) Therefore order the tomb to be made secure until the third day, lest his disciples go and steal him away and tell the people, ‘He has risen from the dead,’ and the last fraud will be worse than the first.”
+
+65) Pilate said to them, “You have a guard of soldiers. Go, make it as secure as you can.”
+
+66) So they went and made the tomb secure by sealing the stone and setting a guard.`,
+    },
     "Easter-Sunday": {
       enTitle: "Easter Sunday",
       date: "APRIL 5",
-      scripture: "",
-      text: "",
+      scripture: "Matthew 28:1-10, Luke 24:1-12",
+      text: `[Matthew 28:1-10]
+1) Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
+
+2) And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
+
+3) His appearance was like lightning, and his clothing white as snow.
+
+4) And for fear of him the guards trembled and became like dead men.
+
+5) But the angel said to the women, “Do not be afraid, for I know that you seek Jesus who was crucified.
+
+6) He is not here, for he has risen, as he said. Come, see the place where he lay.
+
+7) Then go quickly and tell his disciples that he has risen from the dead, and behold, he is going before you to Galilee; there you will see him. See, I have told you.”
+
+8) So they departed quickly from the tomb with fear and great joy, and ran to tell his disciples.
+
+9) And behold, Jesus met them and said, “Greetings!” And they came up and took hold of his feet and worshiped him.
+
+10) Then Jesus said to them, “Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me.”
+
+
+[Luke 24:1-12]
+1) But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.
+
+2) And they found the stone rolled away from the tomb,
+
+3) but when they went in they did not find the body of the Lord Jesus.
+
+4) While they were perplexed about this, behold, two men stood by them in dazzling apparel.
+
+5) And as they were frightened and bowed their faces to the ground, the men said to them, “Why do you seek the living among the dead?
+
+6) He is not here, but has risen. Remember how he told you, while he was still in Galilee,
+
+7) that the Son of Man must be delivered into the hands of sinful men and be crucified and on the third day rise.”
+
+8) And they remembered his words,
+
+9) and returning from the tomb they told all these things to the eleven and to all the rest.
+
+10) Now it was Mary Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles,
+
+11) but these words seemed to them an idle tale, and they did not believe them.
+
+12) But Peter rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened.`,
     },
   },
 

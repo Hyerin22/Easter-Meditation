@@ -109,9 +109,10 @@ hr {
 /* body text */
 .meditation-text {
   text-align: left;
-  font-size: 18px;
+  font-size: 20px;
   white-space: pre-wrap;
   word-break: keep-all;
   color: #444;
   padding: 0px 20px 0px 20px;
+  line-height: 1.5;
 }

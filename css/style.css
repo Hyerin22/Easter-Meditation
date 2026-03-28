@@ -84,8 +84,8 @@ select#lang-select {
 .sub-title {
   font-size: 14px;
   font-weight: 700;
-  letter-spacing: 2px; /* 자간을 넓혀서 세련되게 */
-  text-transform: uppercase; /* 대문자로 고정 */
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin-top: 10px;
   color: #555;
 }
@@ -115,4 +115,11 @@ hr {
   color: #444;
   padding: 0px 20px 0px 20px;
   line-height: 1.5;
+}
+
+/* Japanese */
+.lang-ja {
+  font-size: 18px;
+  line-height: 1.8;
+  letter-spacing: -0.02em;
 }

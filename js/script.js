@@ -34,11 +34,19 @@ function updateContent() {
   }
 
   if (data) {
+    const textElement = document.getElementById("display-text");
     document.getElementById("display-main-title").innerText = data.enTitle;
     document.getElementById("display-sub-title").innerText =
       `PASSION WEEK • ${data.date}`;
     document.getElementById("display-scripture").innerText = data.scripture;
-    document.getElementById("display-text").innerText = data.text;
+
+    textElement.innerText = data.text.replace(/．\s+」/g, "．」");
+
+    if (lang === "ja") {
+      textElement.classList.add("lang-ja");
+    } else {
+      textElement.classList.remove("lang-ja");
+    }
 
     document.title = `${data.enTitle} - Meditation`;
   } else {

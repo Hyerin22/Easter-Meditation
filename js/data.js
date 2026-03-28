@@ -104,13 +104,37 @@ const meditationData = {
     Wednesday: {
       enTitle: "Wednesday",
       date: "APRIL 1",
-      scripture: "Matthew 26:14-16",
-      text: `[Matthew 26:14-16]
-14) Then one of the twelve, whose name was Judas Iscariot, went to the chief priests
+      scripture: "Matthew 26:6-13, Luke 22:1-6",
+      text: `[Matthew 26:6-13]
+6) Now when Jesus was at Bethany in the house of Simon the leper, 
 
-15) and said, “What will you give me if I deliver him over to you?” And they paid him thirty pieces of silver.
+7) a woman came up to him with an alabaster flask of very expensive ointment, and she poured it on his head as he reclined at table. 
 
-16) And from that moment he sought an opportunity to betray him.`,
+8) And when the disciples saw it, they were indignant, saying, “Why this waste? 
+
+9) For this could have been sold for a large sum and given to the poor.” 
+
+10) But Jesus, aware of this, said to them, “Why do you trouble the woman? For she has done a beautiful thing to me. 
+
+11) For you always have the poor with you, but you will not always have me. 
+
+12) In pouring this ointment on my body, she has done it to prepare me for burial. 
+
+13) Truly, I say to you, wherever this gospel is proclaimed in the whole world, what she has done will also be told in memory of her.”
+
+
+[Luke 22:1-6]
+1) Now the Feast of Unleavened Bread drew near, which is called the Passover. 
+
+2) And the chief priests and the scribes were seeking how to put him to death, for they feared the people. 
+
+3) Then Satan entered into Judas called Iscariot, who was of the number of the twelve. 
+
+4) He went away and conferred with the chief priests and officers how he might betray him to them. 
+
+5) And they were glad, and agreed to give him money. 
+
+6) So he consented and sought an opportunity to betray him to them in the absence of a crowd.`,
     },
     Thursday: {
       enTitle: "Thursday",
@@ -375,16 +399,37 @@ const meditationData = {
     Wednesday: {
       enTitle: "Wednesday",
       date: "APRIL 1",
-      scripture: "마태복음 26:14-16",
-      text: `[마태복음 26:14-16]
-14) 그 때에 열둘 중의 하나인 가룟 유다라 하는 자가 대제사장들에게 가서 말하되
+      scripture: "마태복음 26:6-13, 누가복음 22:1-6",
+      text: `[마태복음 26:6-13]
+6) 예수께서 베다니 나병환자 시몬의 집에 계실 때에
 
-15) 내가 예수를 너희에게 넘겨 주리니 얼마나 주려느냐 하니 그들이 은 삼십을 달아 주거늘
+7) 한 여자가 매우 귀한 향유 한 옥합을 가지고 나아와서 식사하시는 예수의 머리에 부으니
 
-16) 그가 그 때부터 예수를 넘겨 줄 기회를 찾더라
+8) 제자들이 보고 분개하여 이르되 무슨 의도로 이것을 허비하느냐
+
+9) 이것을 비싼 값에 팔아 가난한 자들에게 줄 수 있었겠도다 하거늘
+
+10) 예수께서 아시고 그들에게 이르시되 너희가 어찌하여 이 여자를 괴롭게 하느냐 그가 내게 좋은 일을 하였느니라
+
+11) 가난한 자들은 항상 너희와 함께 있거니와 나는 항상 함께 있지 아니하리라
+
+12) 이 여자가 내 몸에 이 향유를 부은 것은 내 장례를 위하여 함이니라
+
+13) 내가 진실로 너희에게 이르노니 온 천하에 어디서든지 이 복음이 전파되는 곳에서는 이 여자가 행한 일도 말하여 그를 기억하리라 하시니라
 
 
-`,
+[누가복음 22:1-6]
+1) 유월절이라 하는 무교절이 다가오매
+
+2) 대제사장들과 서기관들이 예수를 무슨 방도로 죽일까 궁리하니 이는 그들이 백성을 두려워함이더라
+
+3) 열둘 중의 하나인 가룟인이라 부르는 유다에게 사탄이 들어가니
+
+4) 이에 유다가 대제사장들과 성전 경비대장들에게 가서 예수를 넘겨 줄 방도를 의논하매
+
+5) 그들이 기뻐하여 돈을 주기로 언약하는지라
+
+6) 유다가 허락하고 예수를 무리가 없을 때에 넘겨 줄 기회를 찾더라`,
     },
     Thursday: {
       enTitle: "Thursday",
@@ -467,8 +512,7 @@ const meditationData = {
 
 49) 내가 날마다 너희와 함께 성전에 있으면서 가르쳤으되 너희가 나를 잡지 아니하였도다 그러나 이는 성경을 이루려 함이니라 하시더라
 
-50) 제자들이 다 예수를 버리고 도망하니라
-`,
+50) 제자들이 다 예수를 버리고 도망하니라`,
     },
     "Good-Friday": {
       enTitle: "Good Friday",

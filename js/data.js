@@ -1149,5 +1149,306 @@ const meditationData = {
 12) Pero levantándose Pedro, corrió al sepulcro; y cuando miró dentro, vio los lienzos solos, y se fue a casa maravillándose de lo que había sucedido.`,
     },
   },
-  tl: {},
+  tl: {
+    "Palm-Sunday": {
+      enTitle: "Palm Sunday",
+      date: "MARCH 29",
+      scripture: "Mateo 21:1-11",
+      text: `[Mateo 21:1-11]
+1) Nang malapit na sila sa Jerusalem, dumaan sila sa Bethfage, sa Bundok ng mga Olibo. Inutusan ni Jesus ang dalawa sa kanyang mga alagad, 
+
+2) “Pumunta kayo sa susunod na nayon at makikita ninyo kaagad doon ang isang babaing asno na nakatali, kasama ang kanyang anak. Kalagan ninyo ang mga iyon at dalhin sa akin. 
+
+3) Kapag may nagtanong sa inyo, sabihin ninyong kailangan iyon ng Panginoon at ibibigay niya agad ang mga iyon sa inyo.”
+
+4) Sa gayon, natupad ang sinabi ng propeta:
+
+5) “Sa lungsod ng Zion ay ipahayag ninyo, ‘Tingnan mo, ang iyong hari ay dumarating. Siya'y mapagpakumbaba; masdan mo't siya'y nakasakay sa isang asno, at sa isang bisiro na anak ng asno.’”
+
+6) Lumakad nga ang mga alagad at ginawa ang iniutos ni Jesus. 
+
+7) Dinala nila kay Jesus ang asno at ang bisiro, at isinapin sa likod ng mga ito ang kanilang balabal at sumakay si Jesus. 
+
+8) Maraming naglatag ng kanilang balabal sa daan; mayroon namang pumutol ng mga sanga ng kahoy at ito'y inilatag sa daan. 
+
+9) Nagsisigawan ang mga taong nauuna at sumusunod sa kanya. Sigaw nila, “Purihin ang anak ni David! Pinagpala ang dumarating sa pangalan ng Panginoon! Purihin ang Diyos!”
+
+10) Pagpasok ni Jesus sa Jerusalem, nagulo ang buong lungsod. “Sino kaya ito?” tanong nila. 
+
+11) “Si Jesus, ang propetang taga-Nazaret sa Galilea,” sagot ng karamihan.`,
+    },
+    Monday: {
+      enTitle: "Monday",
+      date: "MARCH 30",
+      scripture: "Mateo 21:12-14, 21:18-21",
+      text: `[Mateo 21:12-14]
+12) Pumasok si Jesus sa Templo at ipinagtabuyan niyang palabas ang mga nagtitinda at namimili roon. Ipinagtataob niya ang mga mesa ng mga namamalit ng salapi at ang mga upuan ng mga nagtitinda ng kalapati. 
+
+13) Sinabi niya, “Sinasabi sa Kasulatan, ‘Ang aking tahanan ay tatawaging bahay-dalanginan.’ Ngunit ginawa ninyo itong lungga ng mga magnanakaw.”
+
+14) Habang si Jesus ay nasa Templo, lumapit sa kanya ang mga bulag at mga pilay, at sila'y kanyang pinagaling. 
+
+
+[Mateo 21:18-21]
+18) Kinaumagahan, nang si Jesus ay pabalik sa lungsod, siya'y nakaramdam ng gutom. 
+
+19) Nakita niya ang isang puno ng igos sa tabi ng daan at nilapitan iyon. Wala siyang nakitang bunga kundi mga dahon lamang. Kaya't sinabi niya dito, “Hindi ka na mamumunga kailanman!” Agad na natuyo ang puno.
+
+20) Nakita ng mga alagad ang nangyari at sila'y namangha. “Paanong natuyo agad ang puno ng igos?” tanong nila.
+
+21) Sumagot si Jesus, “Tandaan ninyo: kung kayo'y maniniwala at hindi mag-aalinlangan, magagawa rin ninyo ang ginawa ko sa puno ng igos na ito. Hindi lamang iyan, kung sasabihin ninyo sa bundok na ito, ‘Umalis ka riyan, at tumalon ka sa dagat,’ mangyayari ang inyong sinabi. `,
+    },
+    Tuesday: {
+      enTitle: "Tuesday",
+      date: "MARCH 31",
+      scripture: "Mateo 21:23-27, Marcos 12:28-44",
+      text: `[Mateo 21:23-27]
+23) Pumasok si Jesus sa Templo. Habang siya'y nagtuturo doon, lumapit sa kanya ang mga punong pari at ang mga pinuno ng bayan, at siya'y tinanong, “Ano ang karapatan mong gumawa ng mga bagay na ito? Sino ang nagbigay sa iyo ng karapatang gumawa nito?”
+
+24) Sumagot si Jesus, “Tatanungin ko rin kayo. Kapag sinagot ninyo ang tanong ko, saka ko sasabihin sa inyo kung ano ang karapatan kong gumawa ng mga bagay na ito. 
+
+25) Kanino nagmula ang karapatan ni Juan upang magbautismo, sa Diyos ba o sa tao?” Kaya't sila'y nag-usap-usap, “Kung sasabihin nating mula sa Diyos, sasabihin naman niya sa atin, ‘Bakit hindi ninyo siya pinaniwalaan?’ 
+
+26) Ngunit kung sasabihin nating mula sa tao, baka kung ano ang gawin sa atin ng mga taong-bayan, sapagkat kinikilala ng lahat na si Juan ay isang propeta.” 
+
+27) Kaya't sumagot sila kay Jesus, “Hindi namin alam!”
+
+
+[Marcos 12:28-44]
+28) Ang kanilang pagtatalo ay narinig ng isa sa mga tagapagturo ng Kautusan na naroon. Nakita niyang mahusay ang pagkasagot ni Jesus sa mga Saduseo kaya siya naman ang lumapit upang magtanong, “Alin po ba ang pinakamahalagang utos?”
+
+29) Sumagot si Jesus, “Ito ang pinakamahalagang utos: ‘Pakinggan mo, Israel! Ang Panginoon na ating Diyos—siya lamang ang Panginoon. 
+
+30) Ibigin mo ang Panginoon mong Diyos nang buong puso mo, buong kaluluwa mo, buong pag-iisip mo at buong lakas mo.’ 
+
+31) Ito naman ang pangalawa, ‘Ibigin mo ang iyong kapwa gaya ng pag-ibig mo sa iyong sarili.’ Wala nang ibang utos na hihigit pa sa mga ito.”
+
+32) Wika ng tagapagturo ng Kautusan, “Tama po, Guro! Totoo ang sinabi ninyo. Iisa nga ang Diyos at wala nang iba liban sa kanya. 
+
+33) At higit na mahalaga ang umibig sa kanya nang buong puso, buong pag-iisip at buong lakas, at ang umibig sa kapwa gaya ng pag-ibig sa sarili, kaysa magdala ng lahat ng handog na susunugin at iba pang mga alay.”
+
+34) Nakita ni Jesus na maganda ang sagot nito kaya't sinabi niya, “Hindi ka na nalalayo sa kaharian ng Diyos.” At mula noon ay wala nang nangahas na magtanong kay Jesus.
+
+35) Habang si Jesus ay nagtuturo sa Templo, sinabi niya, “Bakit sinasabi ng mga tagapagturo ng Kautusan na ang Cristo ay anak ni David? 
+
+36) Hindi ba't si David na rin ang nagpahayag ng ganito nang siya'y gabayan ng Espiritu Santo: “Sinabi ng Panginoon sa aking Panginoon, ‘Maupo ka sa kanan ko, hanggang lubusan kong mapasuko sa iyo ang mga kaaway mo.’”
+
+37) Si David na rin ang tumawag sa kanya ng Panginoon; paano siya magiging anak ni David?” Napakaraming tao ang malugod na nakikinig sa kanya. 
+
+38) Sa kanyang pagtuturo, sinabi ni Jesus, “Mag-ingat kayo sa mga tagapagturo ng Kautusan na mahilig magpalakad-lakad na suot ang kanilang mahahabang damit at gustung-gustong binabati nang may paggalang sa mga pamilihan. 
+
+39) Ang gusto nila ay ang mga natatanging upuan sa mga sinagoga at ang mga upuang pandangal sa mga handaan. 
+
+40) Inuubos nila ang kabuhayan ng mga biyuda at ang mahahaba nilang dasal ay mga pagkukunwari lamang. Dahil diyan, mas mabigat na parusa ang igagawad sa kanila.”
+
+41) Naupo si Jesus sa tapat ng hulugan ng mga kaloob sa Templo, at pinagmasdan ang mga naghuhulog ng salapi. Napansin niyang maraming mayayaman ang naghuhulog ng malalaking halaga. 
+
+42) Lumapit naman ang isang biyudang dukha at naghulog ng dalawang salaping tanso. 
+
+43) Tinawag ni Jesus ang kanyang mga alagad at sinabi sa kanila, “Sinasabi ko sa inyo, ang inihandog ng biyudang iyon ay higit na marami kaysa sa inihulog nilang lahat. 
+
+44) Sapagkat ang lahat ay nagkaloob ng bahagi lamang ng kanilang kayamanan, ngunit ang ibinigay ng babaing iyon, bagama't siya'y dukha, ay ang buo niyang ikinabubuhay.”`,
+    },
+    Wednesday: {
+      enTitle: "Wednesday",
+      date: "APRIL 1",
+      scripture: "Mateo 26:6-13, Lucas 22:1-6",
+      text: `[Mateo 26:6-13]
+6) Noong nasa Bethania si Jesus, sa bahay ni Simon na ketongin, 
+
+7) lumapit sa kanya ang isang babaing may dalang sisidlang alabastro na puno ng napakamahal na pabango. Ibinuhos ito sa ulo ni Jesus habang siya'y nakaupo sa may hapag. 
+
+8) Nagalit ang mga alagad nang makita ito. “Bakit inaksaya ang pabango?” tanong nila. 
+
+9) “Naipagbili sana iyon sa malaking halaga at naibigay sa mga mahihirap ang pinagbilhan!”
+
+10) Alam ni Jesus ang iniisip nila kaya't sinabi niya, “Bakit ninyo ginugulo ang babaing ito? Mabuting bagay ang ginawa niya sa akin. 
+
+11) Sapagkat palagi ninyong makakasama ang mga dukha, ngunit ako'y hindi ninyo makakasama palagi. 
+
+12) Binuhusan niya ako ng pabango bilang paghahanda sa paglilibing sa akin. 
+
+13) Tandaan ninyo, saan man ipangaral ang Magandang Balita sa buong mundo, babanggitin ang ginawa niyang ito bilang pag-alaala sa kanya.”
+
+
+[Lucas 22:1-6]
+1) Malapit nang ipagdiwang noon ang Pista ng Tinapay na Walang Pampaalsa na tinatawag ding Pista ng Paskwa. 
+
+2) Ang mga punong pari at mga tagapagturo ng Kautusan ay naghahanap ng paraan upang mapatay nila si Jesus, ngunit nag-iingat sila dahil natatakot sila sa mga tao.
+
+3) Noon nama'y pumasok si Satanas kay Judas, na tinatawag na Iscariote, na kabilang sa Labindalawa. 
+
+4) Kaya't nakipagkita siya sa mga punong pari at sa mga pinuno ng bantay sa Templo upang kanilang pag-usapan kung paano niyang maipagkakanulo si Jesus. 
+
+5) Natuwa sila at pumayag na babayaran si Judas ng salapi. 
+
+6) Nakipagkasundo siya, at mula noo'y humanap na siya ng pagkakataong maipagkanulo si Jesus nang hindi namamalayan ng mga tao.`,
+    },
+    Thursday: {
+      enTitle: "Thursday",
+      date: "APRIL 2",
+      scripture: "Marcos 14:12-50",
+      text: `[Marcos 14:12-50]
+12) Unang araw noon ng Pista ng Tinapay na Walang Pampaalsa, araw ng paghahain ng korderong pampaskwa. Tinanong si Jesus ng kanyang mga alagad, “Saan po ninyo nais na maghanda kami ng hapunang pampaskwa?”
+
+13) Inutusan niya ang dalawa sa kanyang mga alagad, “Pumunta kayo sa bayan at may masasalubong kayong isang lalaking may dalang banga ng tubig. Sundan ninyo siya 
+
+14) sa bahay na kanyang papasukan at sabihin ninyo sa may-ari, ‘Ipinapatanong po ng Guro kung mayroon kayong silid na maaaring magamit niya at ng kanyang mga alagad para sa hapunang pampaskwa.’ 
+
+15) At ituturo niya sa inyo ang isang malaking silid sa itaas na mayroon nang kagamitan. Doon kayo maghanda para sa atin.”
+
+16) Nagpunta nga sa bayan ang mga alagad at natagpuan nila roon ang lahat, gaya ng sinabi ni Jesus sa kanila. At inihanda nila ang hapunang pampaskwa.
+
+17) Kinagabihan, dumating si Jesus na kasama ang Labindalawa. 
+
+18) Habang sila'y kumakain, sinabi ni Jesus, “Tandaan ninyo ito: isa sa inyo na kasalo ko ngayon ay magkakanulo sa akin.”
+
+19) Nalungkot ang mga alagad, at ang bawat isa ay nagtanong sa kanya, “Hindi ako iyon, di po ba, Panginoon?”
+
+20) Sumagot siya, “Isa siya sa inyong labindalawa, na kasabay ko sa pagsawsaw ng tinapay sa mangkok. 
+
+21) Papanaw ang Anak ng Tao ayon sa nasusulat tungkol sa kanya, subalit kahabag-habag ang taong magkakanulo sa kanya! Mabuti pa sa taong iyon ang hindi na siya ipinanganak.”
+
+22) Habang kumakain sila, si Jesus ay dumampot ng tinapay at nagpasalamat sa Diyos. Pagkatapos, kanyang pinaghati-hati ang tinapay at iniabot sa mga alagad. Sinabi niya, “Kunin ninyo ito; ito ang aking katawan.” 
+
+23) Dumampot din siya ng kopa at matapos magpasalamat sa Diyos ay iniabot din niya iyon sa mga alagad, at uminom silang lahat. 
+
+24) Sinabi niya, “Ito ang aking dugo; pinapagtibay nito ang tipan ng Diyos. Ang aking dugo ay mabubuhos para sa marami. 
+
+25) Tandaan ninyo: hinding-hindi na ako muling iinom pa ng katas ng ubas hanggang sa araw na inumin kong panibago sa kaharian ng Diyos.”
+
+26) Umawit sila ng isang himno, at pagkatapos ay nagpunta sila sa Bundok ng mga Olibo.
+
+27) Sinabi ni Jesus sa kanila, “Ako'y iiwan ninyong lahat, sapagkat sinasabi sa kasulatan, ‘Papatayin ko ang pastol at magkakawatak-watak ang mga tupa.’ 
+
+28) Ngunit pagkatapos na ako'y muling buhayin, mauuna ako sa inyo sa Galilea.”
+
+29) Sumagot si Pedro, “Kahit na po kayo iwan ng lahat, hindi ko kayo iiwan.”
+
+30) Sabi ni Jesus sa kanya, “Tandaan mo, sa gabi ring ito, bago tumilaok ang manok nang makalawa, tatlong beses mo akong ikakaila.”
+
+31) Subalit lalong ipinagdiinan ni Pedro, “Kahit ako'y pataying kasama ninyo, hindi ko kayo ikakaila.” Ganoon din ang sinabi ng lahat.
+
+32) Dumating sila sa isang lugar na tinatawag na Getsemani. Sinabi ni Jesus sa kanyang mga alagad, “Maupo muna kayo rito habang ako'y nananalangin.” 
+
+33) At isinama niya sina Pedro, Santiago at Juan. Nagsimulang mabagabag at maghirap ang kanyang kalooban. 
+
+34) Sinabi niya sa kanila, “Ang puso ko'y labis na nalulungkot at ako'y halos mamatay na! Maghintay kayo rito at magbantay.”
+
+35) Lumayo siya nang kaunti, at pagkatapos ay nagpatirapa upang manalangin na kung maaari'y huwag nang sumapit sa kanya ang oras ng paghihirap. 
+
+36) Nanalangin siya, “Ama ko, Ama ko! Magagawa mo ang lahat ng bagay. Alisin mo sa akin ang paghihirap na ito, ngunit hindi ang kalooban ko kundi ang kalooban mo ang masunod.”
+
+37) Nagbalik siya at dinatnan niyang natutulog ang tatlong alagad. Sinabi niya kay Pedro, “Natutulog ka ba, Simon? Hindi ka ba makapagbantay kahit isang oras man lamang? 
+
+38) Magbantay kayo at manalangin upang huwag kayong madaig ng tukso. Ang espiritu'y nakahanda ngunit ang laman ay mahina.”
+
+39) Muling lumayo si Jesus upang manalangin at inulit niya ang kanyang kahilingan. 
+
+40) Nagbalik siyang muli sa kanyang mga alagad, at sila'y naratnan niyang natutulog dahil sila'y antok na antok. At hindi nila malaman kung ano ang kanilang isasagot sa kanya.
+
+41) Sa ikatlo niyang pagbabalik ay sinabi niya sa kanila, “Natutulog pa ba kayo at namamahinga? Tama na, sapagkat dumating na ang oras upang ang Anak ng Tao'y ibigay sa kamay ng mga makasalanan. 
+
+42) Bumangon kayo! Narito na ang magkakanulo sa akin.”
+
+43) Nagsasalita pa si Jesus nang dumating si Judas na kabilang sa Labindalawa. May kasama siyang maraming tao na may mga dalang tabak at pamalo. Sila'y isinugo ng mga punong pari, mga tagapagturo ng Kautusan, at mga pinuno ng bayan. 
+
+44) Bago pa man dumating, nagbigay na si Judas ng isang hudyat, “Kung sino ang hahalikan ko, siya iyon. Dakpin ninyo siya at bantayang mabuti.”
+
+45) Pagdating ni Judas, agad siyang lumapit kay Jesus. “Guro!” ang bati niya, at ito'y kanyang hinalikan. 
+
+46) Agad ngang sinunggaban at dinakip ng mga tao si Jesus. 
+
+47) Bumunot ng tabak ang isa sa mga nakatayo roon at tinaga ang alipin ng pinakapunong pari, at natagpas ang tainga niyon. 
+
+48) Sinabi ni Jesus sa mga tao, “Ako ba'y tulisan at naparito kayong may dalang tabak at pamalo upang ako'y dakpin? 
+
+49) Araw-araw akong nagtuturo sa Templo at naroon din kayo, ngunit hindi ninyo ako dinakip. Subalit kailangang matupad ang sinasabi ng Kasulatan!”
+
+50) Tumakas ang lahat ng mga alagad at iniwan siya.`,
+    },
+    "Good-Friday": {
+      enTitle: "Good Friday",
+      date: "APRIL 3",
+      scripture: "Mateo 26:47-50, Marcos 15:25-27, Lucas 23:44-46",
+      text: `[Mateo 26:47-50]
+47) Nagsasalita pa si Jesus nang dumating si Judas, na kabilang sa Labindalawa. May kasama siyang maraming tao na may dalang mga tabak at pamalo; isinugo sila ng mga punong pari at mga pinuno ng bayan. 
+
+48) Bago pa sila dumating doon, sinabi na ng taksil sa kanyang mga kasama, “Kung sinong hahalikan ko, siya ang dakpin ninyo.”
+
+49) Nilapitan niya agad si Jesus at binati, “Magandang gabi po, Guro,” saka hinalikan.
+
+50 Sinabi sa kanya ni Jesus, “Kaibigan, gawin mo na ang sadya mo.” At siya'y nilapitan nila at dinakip.
+
+
+[Marcos 15:25-27]
+25) Ikasiyam ng umaga nang ipako siya sa krus. 
+
+26) Isinulat sa itaas ng krus ang paratang laban sa kanya, “Ang Hari ng mga Judio.” 
+
+27) May dalawang tulisang kasama niyang ipinako sa krus, isa sa kanan at isa sa kaliwa.
+
+
+[Lucas 23:44-46]
+44) Nang magtatanghaling-tapat na, hanggang sa ikatlo ng hapon, nagdilim sa buong lupain. 
+
+45) Nawalan ng liwanag ang araw at ang tabing ng Templo'y napunit sa gitna. 
+
+46) Sumigaw nang malakas si Jesus, “Ama, sa mga kamay mo'y ipinagkakatiwala ko ang aking espiritu!” At pagkasabi nito, nalagot ang kanyang hininga.`,
+    },
+    Saturday: {
+      enTitle: "Saturday",
+      date: "APRIL 4",
+      scripture: "Mateo 27:57-66",
+      text: `[Mateo 27:57-66]
+57) Pagsapit ng dilim, dumating si Jose, isang mayamang taga-Arimatea na tagasunod din ni Jesus. 
+
+58) Hiningi niya kay Pilato ang bangkay ni Jesus, kaya't iniutos ni Pilato na ibigay ito kay Jose. 
+
+59) Nang makuha na ang bangkay, binalutan niya ito ng malinis na tela ng lino. 
+
+60) Inilagay niya ito sa kanyang bagong libingan na ipinauka niya sa bato. Pagkatapos, iginulong niya sa pintuan ang isang malaking batong panakip, at saka umalis. 
+
+61) Naroon sina Maria Magdalena at ang isa pang Maria na nakaupo sa tapat ng libingan.
+
+62) Kinabukasan, pagkatapos ng Araw ng Paghahanda, sama-samang nagpunta kay Pilato ang mga punong pari at ang mga Pariseo. 
+
+63) Sinabi nila, “Naalala po namin na sinabi ng mapagpanggap na iyon noong siya'y nabubuhay pa, na siya'y muling mabubuhay pagkaraan ng tatlong araw. 
+
+64) Kaya pabantayan po sana ninyong mabuti ang libingan hanggang sa ikatlong araw. Baka pumunta doon ang kanyang mga alagad at kunin ang bangkay at pagkatapos ay ipamalitang siya'y muling nabuhay. Ang pandarayang ito ay magiging masahol pa kaysa una.”
+
+65) Sinabi sa kanila ni Pilato, “Kumuha kayo ng mga kawal at pabantayan ninyong mabuti ang libingan.”
+
+66) Kaya pumunta nga sila roon at tiniyak na hindi mabubuksan ang libingan, nilagyan ng tatak ang batong panakip sa libingan, at pinabantayan ito sa kawal.`,
+    },
+    "Easter-Sunday": {
+      enTitle: "Easter Sunday",
+      date: "APRIL 5",
+      scripture: "Lucas 24:1-12",
+      text: `[Lucas 24:1-12]
+1) Maagang-maaga pa ng araw ng Linggo, ang mga babae ay nagbalik sa libingan, dala ang mga pabangong inihanda nila. 
+
+2) Nang dumating sila doon, nakita nilang naigulong na ang batong nakatakip sa libingan. 
+
+3) Ngunit nang pumasok sila, wala roon ang bangkay ng Panginoong Jesus. 
+
+4) Samantalang nagtataka sila kung ano ang nangyari, biglang lumitaw sa tabi nila ang dalawang lalaking nakakasilaw ang damit. 
+
+5) Dahil sa matinding takot, sila'y nagpatirapa. Tinanong sila ng mga lalaki, “Bakit ninyo hinahanap ang buháy sa lugar ng mga patay? 
+
+6) Wala siya rito, siya'y muling nabuhay! Alalahanin ninyo ang sinabi niya sa inyo noong nasa Galilea pa siya, 
+
+7) ‘Ang Anak ng Tao ay kailangang ipagkanulo sa mga makasalanan at ipako sa krus, at sa ikatlong araw ay muling mabubuhay.’”
+
+8) Naalala nga ng mga babae ang mga sinabi ni Jesus noong una, 
+
+9) kaya't umuwi sila at isinalaysay nila sa labing-isa at sa iba pa nilang kasamahan ang buong pangyayari. 
+
+10) Ang mga babaing ito'y sina Maria Magdalena, Juana, at Maria na ina ni Santiago; sila at ang iba pang mga babaing kasama nila ang nagbalita sa mga apostol. 
+
+11) Akala ng mga apostol ay kahibangan lamang ang kanilang sinasabi kaya ayaw nilang paniwalaan ang mga kababaihan. 
+
+12) Ngunit tumayo si Pedro at patakbong nagpunta sa libingan. Yumuko siya, at pagtingin sa loob ay wala siyang nakita kundi ang mga telang lino na ipinambalot kay Jesus. Kaya't umuwi siyang nagtataka sa nangyari.`,
+    },
+  },
 };

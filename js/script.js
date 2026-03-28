@@ -40,12 +40,20 @@ function updateContent() {
       `PASSION WEEK • ${data.date}`;
     document.getElementById("display-scripture").innerText = data.scripture;
 
-    textElement.innerText = data.text.replace(/．\s+」/g, "．」");
+    textElement.classList.remove(
+      "lang-ko",
+      "lang-ja",
+      "lang-es",
+      "lang-tl",
+      "lang-en",
+    );
+
+    textElement.classList.add(`lang-${lang}`);
 
     if (lang === "ja") {
-      textElement.classList.add("lang-ja");
+      textElement.innerText = data.text.replace(/．\s+」/g, "．」");
     } else {
-      textElement.classList.remove("lang-ja");
+      textElement.innerText = data.text;
     }
 
     document.title = `${data.enTitle} - Meditation`;

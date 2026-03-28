@@ -1,6 +1,6 @@
 body {
   font-family: "Noto Sans KR", "Segoe UI", sans-serif;
-  background-color: #fdfbf7; /* 부드러운 미색 배경 */
+  background-color: #fdfbf7;
   margin: 0;
   padding: 0;
   display: flex;
@@ -111,15 +111,29 @@ hr {
   text-align: left;
   font-size: 20px;
   white-space: pre-wrap;
-  word-break: keep-all;
+  /* word-break: keep-all; */
   color: #444;
   padding: 0px 20px 0px 20px;
   line-height: 1.5;
 }
 
-/* Japanese */
+/* Japanese only */
 .lang-ja {
   font-size: 18px;
   line-height: 1.8;
   letter-spacing: -0.02em;
+}
+
+/* Jap, Kor word break */
+.lang-ko,
+.lang-ja {
+  word-break: keep-all;
+}
+
+/* Other langs workd break */
+.lang-es,
+.lang-tl,
+.lang-en {
+  word-break: normal;
+  overflow-wrap: break-word;
 }

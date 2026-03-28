@@ -362,7 +362,7 @@ const meditationData = {
 
 33) 또 마음을 다하고 지혜를 다하고 힘을 다하여 하나님을 사랑하는 것과 또 이웃을 자기 자신과 같이 사랑하는 것이 전체로 드리는 모든 번제물과 기타 제물보다 나으니이다
 
-34) 예수께서 그가 지혜 있게 대답함을 보시고 이르시되 네가 하나님의 나라에서 멀지 않도다 하시니 그 후에 감히 묻는 자가 없더라... (중략)
+34) 예수께서 그가 지혜 있게 대답함을 보시고 이르시되 네가 하나님의 나라에서 멀지 않도다 하시니 그 후에 감히 묻는 자가 없더라
 
 41) 예수께서 헌금함을 대하여 앉으사 무리가 어떻게 헌금함에 돈 넣는가를 보실새 여러 부자는 많이 넣는데
 
@@ -855,6 +855,299 @@ const meditationData = {
 12. 〔しかし ペテロ は， 立ち 上がると 走って 墓へ 行き， かがんでのぞき 込んだところ， 亞麻布だけがあった． それで， この 出來事に 驚いて 家に 歸った．〕`,
     },
   },
-  es: {},
+  es: {
+    "Palm-Sunday": {
+      enTitle: "Palm Sunday",
+      date: "MARCH 29",
+      scripture: "Mateo 21:1-11",
+      text: `[Mateo 21:1-11]
+1) Cuando se acercaron a Jerusalén, y vinieron a Betfagé, al monte de los Olivos, Jesús envió dos discípulos, 
+
+2) diciéndoles: Id a la aldea que está enfrente de vosotros, y luego hallaréis una asna atada, y un pollino con ella; desatadla, y traédmelos. 
+
+3) Y si alguien os dijere algo, decid: El Señor los necesita; y luego los enviará. 
+
+4) Todo esto aconteció para que se cumpliese lo dicho por el profeta, cuando dijo:
+
+5) Decid a la hija de Sion: He aquí, tu Rey viene a ti, Manso, y sentado sobre una asna, Sobre un pollino, hijo de animal de carga.
+
+6) Y los discípulos fueron, e hicieron como Jesús les mandó; 
+
+7) y trajeron el asna y el pollino, y pusieron sobre ellos sus mantos; y él se sentó encima. 
+
+8) Y la multitud, que era muy numerosa, tendía sus mantos en el camino; y otros cortaban ramas de los árboles, y las tendían en el camino. 
+
+9) Y la gente que iba delante y la que iba detrás aclamaba, diciendo: ¡Hosanna al Hijo de David! ¡Bendito el que viene en el nombre del Señor! ¡Hosanna en las alturas! 
+
+10) Cuando entró él en Jerusalén, toda la ciudad se conmovió, diciendo: ¿Quién es este? 
+
+11) Y la gente decía: Este es Jesús el profeta, de Nazaret de Galilea.`,
+    },
+    Monday: {
+      enTitle: "Monday",
+      date: "MARCH 30",
+      scripture: "Mateo 21:12-14, 21:18-21",
+      text: `[Mateo 21:12-14]
+12) Y entró Jesús en el templo de Dios, y echó fuera a todos los que vendían y compraban en el templo, y volcó las mesas de los cambistas, y las sillas de los que vendían palomas; 
+
+13) y les dijo: Escrito está: Mi casa, casa de oración será llamada; mas vosotros la habéis hecho cueva de ladrones.
+
+14) Y vinieron a él en el templo ciegos y cojos, y los sanó.
+
+
+[Mateo 21:18-21]
+18) Por la mañana, volviendo a la ciudad, tuvo hambre. 
+
+19) Y viendo una higuera cerca del camino, vino a ella, y no halló nada en ella, sino hojas solamente; y le dijo: Nunca jamás nazca de ti fruto. Y luego se secó la higuera. 
+
+20) Viendo esto los discípulos, decían maravillados: ¿Cómo es que se secó en seguida la higuera? 
+
+21) Respondiendo Jesús, les dijo: De cierto os digo, que si tuviereis fe, y no dudareis, no solo haréis esto de la higuera, sino que si a este monte dijereis: Quítate y échate en el mar, será hecho.`,
+    },
+    Tuesday: {
+      enTitle: "Tuesday",
+      date: "MARCH 31",
+      scripture: "Mateo 21:23-27, Marcos 12:28-44",
+      text: `[Mateo 21:23-27]
+23) Cuando vino al templo, los principales sacerdotes y los ancianos del pueblo se acercaron a él mientras enseñaba, y le dijeron: ¿Con qué autoridad haces estas cosas? ¿y quién te dio esta autoridad? 
+
+24) Respondiendo Jesús, les dijo: Yo también os haré una pregunta, y si me la contestáis, también yo os diré con qué autoridad hago estas cosas. 
+
+25) El bautismo de Juan, ¿de dónde era? ¿Del cielo, o de los hombres? Ellos entonces discutían entre sí, diciendo: Si decimos, del cielo, nos dirá: ¿Por qué, pues, no le creísteis? 
+
+26) Y si decimos, de los hombres, tememos al pueblo; porque todos tienen a Juan por profeta. 
+
+27) Y respondiendo a Jesús, dijeron: No sabemos. Y él también les dijo: Tampoco yo os digo con qué autoridad hago estas cosas.
+
+
+[Marcos 12:28-44]
+28) Acercándose uno de los escribas, que los había oído disputar, y sabía que les había respondido bien, le preguntó: ¿Cuál es el primer mandamiento de todos? 
+
+29) Jesús le respondió: El primer mandamiento de todos es: Oye, Israel; el Señor nuestro Dios, el Señor uno es. 
+
+30) Y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente y con todas tus fuerzas. Este es el principal mandamiento. 
+
+31) Y el segundo es semejante: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que estos. 
+
+32) Entonces el escriba le dijo: Bien, Maestro, verdad has dicho, que uno es Dios, y no hay otro fuera de él; 
+
+33) y el amarle con todo el corazón, con todo el entendimiento, con toda el alma, y con todas las fuerzas, y amar al prójimo como a uno mismo, es más que todos los holocaustos y sacrificios. 
+
+34) Jesús entonces, viendo que había respondido sabiamente, le dijo: No estás lejos del reino de Dios. Y ya ninguno osaba preguntarle.
+
+35) Enseñando Jesús en el templo, decía: ¿Cómo dicen los escribas que el Cristo es hijo de David? 
+
+36) Porque el mismo David dijo por el Espíritu Santo: Dijo el Señor a mi Señor: Siéntate a mi diestra, Hasta que ponga tus enemigos por estrado de tus pies.
+
+37) David mismo le llama Señor; ¿cómo, pues, es su hijo? Y gran multitud del pueblo le oía de buena gana.
+
+38) Y les decía en su doctrina: Guardaos de los escribas, que gustan de andar con largas ropas, y aman las salutaciones en las plazas, 
+
+39) y las primeras sillas en las sinagogas, y los primeros asientos en las cenas; 
+
+40) que devoran las casas de las viudas, y por pretexto hacen largas oraciones. Estos recibirán mayor condenación.
+
+41) Estando Jesús sentado delante del arca de la ofrenda, miraba cómo el pueblo echaba dinero en el arca; y muchos ricos echaban mucho. 
+
+42) Y vino una viuda pobre, y echó dos blancas, o sea un cuadrante. 
+
+43) Entonces llamando a sus discípulos, les dijo: De cierto os digo que esta viuda pobre echó más que todos los que han echado en el arca; 
+
+44) porque todos han echado de lo que les sobra; pero esta, de su pobreza echó todo lo que tenía, todo su sustento.`,
+    },
+    Wednesday: {
+      enTitle: "Wednesday",
+      date: "APRIL 1",
+      scripture: "Mateo 26:6-13, Lucas 22:1-6",
+      text: `[Mateo 26:6-13]
+6) Y estando Jesús en Betania, en casa de Simón el leproso, 
+
+7) vino a él una mujer, con un vaso de alabastro de perfume de gran precio, y lo derramó sobre la cabeza de él, estando sentado a la mesa. 
+
+8) Al ver esto, los discípulos se enojaron, diciendo: ¿Para qué este desperdicio? 
+
+9) Porque esto podía haberse vendido a gran precio, y haberse dado a los pobres. 
+
+10) Y entendiéndolo Jesús, les dijo: ¿Por qué molestáis a esta mujer? pues ha hecho conmigo una buena obra. 
+
+11) Porque siempre tendréis pobres con vosotros, pero a mí no siempre me tendréis. 
+
+12) Porque al derramar este perfume sobre mi cuerpo, lo ha hecho a fin de prepararme para la sepultura. 
+
+13) De cierto os digo que dondequiera que se predique este evangelio, en todo el mundo, también se contará lo que esta ha hecho, para memoria de ella.
+
+[Lucas 22:1-6]
+1) Estaba cerca la fiesta de los panes sin levadura, que se llama la pascua. 
+
+2) Y los principales sacerdotes y los escribas buscaban cómo matarle; porque temían al pueblo. 
+
+3) Y entró Satanás en Judas, por sobrenombre Iscariote, el cual era uno del número de los doce; 
+
+4) y este fue y habló con los principales sacerdotes, y con los jefes de la guardia, de cómo se lo entregaría. 
+
+5) Ellos se alegraron, y convinieron en darle dinero. 
+
+6) Y él se comprometió, y buscaba una oportunidad para entregárselo a espaldas del pueblo.`,
+    },
+    Thursday: {
+      enTitle: "Thursday",
+      date: "APRIL 2",
+      scripture: "Marcos 14:12-50",
+      text: `[Marcos 14:12-50]
+12) El primer día de la fiesta de los panes sin levadura, cuando sacrificaban el cordero de la pascua, sus discípulos le dijeron: ¿Dónde quieres que vayamos a preparar para que comas la pascua? 
+
+13) Y envió dos de sus discípulos, y les dijo: Id a la ciudad, y os saldrá al encuentro un hombre que lleva un cántaro de agua; seguidle, 
+
+14) y donde entrare, decid al señor de la casa: El Maestro dice: ¿Dónde está el aposento donde he de comer la pascua con mis discípulos? 
+
+15) Y él os mostrará un gran aposento alto ya dispuesto; preparad para nosotros allí. 
+
+16) Fueron sus discípulos y entraron en la ciudad, y hallaron como les había dicho; y prepararon la pascua.
+
+17) Y cuando llegó la noche, vino él con los doce. 
+
+18) Y cuando se sentaron a la mesa, mientras comían, dijo Jesús: De cierto os digo que uno de vosotros, que come conmigo, me va a entregar. 
+
+19) Entonces ellos comenzaron a entristecerse, y a decirle uno por uno: ¿Seré yo? Y el otro: ¿Seré yo? 
+
+20) Él, respondiendo, les dijo: Es uno de los doce, el que moja conmigo en el plato. 
+
+21) A la verdad el Hijo del Hombre va, según está escrito de él, mas ¡ay de aquel hombre por quien el Hijo del Hombre es entregado! Bueno le fuera a ese hombre no haber nacido.
+
+22) Y mientras comían, Jesús tomó pan y bendijo, y lo partió y les dio, diciendo: Tomad, esto es mi cuerpo. 
+
+23) Y tomando la copa, y habiendo dado gracias, les dio; y bebieron de ella todos. 
+
+24) Y les dijo: Esto es mi sangre del nuevo pacto, que por muchos es derramada. 
+
+25) De cierto os digo que no beberé más del fruto de la vid, hasta aquel día en que lo beba nuevo en el 
+
+26) Cuando hubieron cantado el himno, salieron al monte de los Olivos. 
+
+27) Entonces Jesús les dijo: Todos os escandalizaréis de mí esta noche; porque escrito está: Heriré al pastor, y las ovejas serán dispersadas. 
+
+28) Pero después que haya resucitado, iré delante de vosotros a Galilea. 
+
+29) Entonces Pedro le dijo: Aunque todos se escandalicen, yo no. 
+
+30) Y le dijo Jesús: De cierto te digo que tú, hoy, en esta noche, antes que el gallo haya cantado dos veces, me negarás tres veces. 
+
+31) Mas él con mayor insistencia decía: Si me fuere necesario morir contigo, no te negaré. También todos decían lo mismo.
+
+32) Vinieron, pues, a un lugar que se llama Getsemaní, y dijo a sus discípulos: Sentaos aquí, entre tanto que yo oro. 
+
+33) Y tomó consigo a Pedro, a Jacobo y a Juan, y comenzó a entristecerse y a angustiarse. 
+
+34) Y les dijo: Mi alma está muy triste, hasta la muerte; quedaos aquí y velad. 
+
+35) Yéndose un poco adelante, se postró en tierra, y oró que si fuese posible, pasase de él aquella hora. 
+
+36) Y decía: Abba, Padre, todas las cosas son posibles para ti; aparta de mí esta copa; mas no lo que yo quiero, sino lo que tú. 
+
+37) Vino luego y los halló durmiendo; y dijo a Pedro: Simón, ¿duermes? ¿No has podido velar una hora? 
+
+38) Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil. 
+
+39) Otra vez fue y oró, diciendo las mismas palabras. 
+
+40) Al volver, otra vez los halló durmiendo, porque los ojos de ellos estaban cargados de sueño; y no sabían qué responderle. 
+
+41) Vino la tercera vez, y les dijo: Dormid ya, y descansad. Basta, la hora ha venido; he aquí, el Hijo del Hombre es entregado en manos de los pecadores. 
+
+42) Levantaos, vamos; he aquí, se acerca el que me entrega.
+
+43) Luego, hablando él aún, vino Judas, que era uno de los doce, y con él mucha gente con espadas y palos, de parte de los principales sacerdotes y de los escribas y de los ancianos. 
+
+44) Y el que le entregaba les había dado señal, diciendo: Al que yo besare, ese es; prendedle, y llevadle con seguridad. 
+
+45) Y cuando vino, se acercó luego a él, y le dijo: Maestro, Maestro. Y le besó. 
+
+46) Entonces ellos le echaron mano, y le prendieron. 
+
+47) Pero uno de los que estaban allí, sacando la espada, hirió al siervo del sumo sacerdote, cortándole la oreja. 
+
+48) Y respondiendo Jesús, les dijo: ¿Como contra un ladrón habéis salido con espadas y con palos para prenderme? 
+
+49) Cada día estaba con vosotros enseñando en el templo, y no me prendisteis; pero es así, para que se cumplan las Escrituras. 
+
+50) Entonces todos los discípulos, dejándole, huyeron.reino de Dios.
+`,
+    },
+    "Good-Friday": {
+      enTitle: "Good Friday",
+      date: "APRIL 3",
+      scripture: "Mateo 26:47-50, Lucas 23:44-46",
+      text: `[Mateo 26:47-50]
+47) Mientras todavía hablaba, vino Judas, uno de los doce, y con él mucha gente con espadas y palos, de parte de los principales sacerdotes y de los ancianos del pueblo. 
+
+48) Y el que le entregaba les había dado señal, diciendo: Al que yo besare, ese es; prendedle. 
+
+49) Y en seguida se acercó a Jesús y dijo: ¡Salve, Maestro! Y le besó.
+
+50) Y Jesús le dijo: Amigo, ¿a qué vienes? Entonces se acercaron y echaron mano a Jesús, y le prendieron.
+
+
+[Lucas 23:44-46]
+44) Cuando era como la hora sexta, hubo tinieblas sobre toda la tierra hasta la hora novena. 
+
+45) Y el sol se oscureció, y el velo del templo se rasgó por la mitad. 
+
+46) Entonces Jesús, clamando a gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, expiró.`,
+    },
+    Saturday: {
+      enTitle: "Saturday",
+      date: "APRIL 4",
+      scripture: "Mateo 27:57-66",
+      text: `[Mateo 27:57-66]
+57) Cuando llegó la noche, vino un hombre rico de Arimatea, llamado José, que también había sido discípulo de Jesús. 
+
+58) Este fue a Pilato y pidió el cuerpo de Jesús. Entonces Pilato mandó que se le diese el cuerpo. 
+
+59) Y tomando José el cuerpo, lo envolvió en una sábana limpia, 
+
+60) y lo puso en su sepulcro nuevo, que había labrado en la peña; y después de hacer rodar una gran piedra a la entrada del sepulcro, se fue. 
+
+61) Y estaban allí María Magdalena, y la otra María, sentadas delante del sepulcro.
+
+62) Al día siguiente, que es después de la preparación, se reunieron los principales sacerdotes y los fariseos ante Pilato, 
+
+63) diciendo: Señor, nos acordamos que aquel engañador dijo, viviendo aún: Después de tres días resucitaré. 
+
+64) Manda, pues, que se asegure el sepulcro hasta el tercer día, no sea que vengan sus discípulos de noche, y lo hurten, y digan al pueblo: Resucitó de entre los muertos. Y será el postrer error peor que el primero. 
+
+65) Y Pilato les dijo: Ahí tenéis una guardia; id, aseguradlo como sabéis. 
+
+66) Entonces ellos fueron y aseguraron el sepulcro, sellando la piedra y poniendo la guardia.`,
+    },
+    "Easter-Sunday": {
+      enTitle: "Easter Sunday",
+      date: "APRIL 5",
+      scripture: "Lucas 24:1-12",
+      text: `[Lucas 24:1-12]
+1) El primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las especias aromáticas que habían preparado, y algunas otras mujeres con ellas. 
+
+2) Y hallaron removida la piedra del sepulcro; 
+
+3) y entrando, no hallaron el cuerpo del Señor Jesús. 
+
+4) Aconteció que estando ellas perplejas por esto, he aquí se pararon junto a ellas dos varones con vestiduras resplandecientes; 
+
+5) y como tuvieron temor, y bajaron el rostro a tierra, les dijeron: ¿Por qué buscáis entre los muertos al que vive? 
+
+6) No está aquí, sino que ha resucitado. Acordaos de lo que os habló, cuando aún estaba en Galilea, 
+
+7) diciendo: Es necesario que el Hijo del Hombre sea entregado en manos de hombres pecadores, y que sea crucificado, y resucite al tercer día. 
+
+8) Entonces ellas se acordaron de sus palabras, 
+
+9) y volviendo del sepulcro, dieron nuevas de todas estas cosas a los once, y a todos los demás. 
+
+10) Eran María Magdalena, y Juana, y María madre de Jacobo, y las demás con ellas, quienes dijeron estas cosas a los apóstoles. 
+
+11) Mas a ellos les parecían locura las palabras de ellas, y no las creían. 
+
+12) Pero levantándose Pedro, corrió al sepulcro; y cuando miró dentro, vio los lienzos solos, y se fue a casa maravillándose de lo que había sucedido.`,
+    },
+  },
   tl: {},
 };

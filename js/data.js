@@ -4,7 +4,7 @@ const meditationData = {
     "Palm-Sunday": {
       enTitle: "Palm Sunday",
       date: "MARCH 29",
-      scripture: "Matthew 21:1-11, Luke 19:28-40",
+      scripture: "Matthew 21:1-11",
       text: `[Matthew 21:1-11]
 1) Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
 
@@ -27,34 +27,7 @@ const meditationData = {
 10) And when he entered Jerusalem, the whole city was stirred up, saying, “Who is this?”
 
 11) And the crowds said, “This is the prophet Jesus, from Nazareth of Galilee.”
-
-
-[Luke 19:28-40]
-28) And when he had said these things, he went on ahead, going up to Jerusalem.
-
-29) When he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
-
-30) saying, “Go into the village in front of you, where on entering you will find a colt tied, on which no one has ever yet sat. Untie it and bring it here.
-
-31) If anyone asks you, ‘Why are you untying it?’ you shall say this: ‘The Lord has need of it.’”
-
-32) So those who were sent went away and found it just as he had told them.
-
-33) And as they were untying the colt, its owners said to them, “Why are you untying the colt?”
-
-34) And they said, “The Lord has need of it.”
-
-35) And they brought it to Jesus, and throwing their cloaks on the colt, they set Jesus on it.
-
-36) And as he rode along, they spread their cloaks on the road.
-
-37) As he was drawing near—already on the way down the Mount of Olives—the whole multitude of his disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen,
-
-38) saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
-
-39) And some of the Pharisees in the crowd said to him, “Teacher, rebuke your disciples.”
-
-40) He answered, “I tell you, if these were silent, the very stones would cry out.”`,
+`,
     },
     Monday: {
       enTitle: "Monday",
@@ -131,67 +104,19 @@ const meditationData = {
     Wednesday: {
       enTitle: "Wednesday",
       date: "APRIL 1",
-      scripture: "Matthew 26:14-16, John 13:3-11",
+      scripture: "Matthew 26:14-16",
       text: `[Matthew 26:14-16]
 14) Then one of the twelve, whose name was Judas Iscariot, went to the chief priests
 
 15) and said, “What will you give me if I deliver him over to you?” And they paid him thirty pieces of silver.
 
-16) And from that moment he sought an opportunity to betray him.
-
-
-[John 13:3-11]
-3) Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going back to God,
-
-4) rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist.
-
-5) Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was wrapped around him.
-
-6) He came to Simon Peter, who said to him, “Lord, do you wash my feet?”
-
-7) Jesus answered him, “What I am doing you do not understand now, but afterward you will understand.”
-
-8) Peter said to him, “You shall never wash my feet.” Jesus answered him, “If I do not wash you, you have no share with me.”
-
-9) Simon Peter said to him, “Lord, not my feet only but also my hands and my head!”
-
-10) Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”
-
-11) For he knew who was to betray him; that was why he said, “Not all of you are clean.”`,
+16) And from that moment he sought an opportunity to betray him.`,
     },
     Thursday: {
       enTitle: "Thursday",
       date: "APRIL 2",
-      scripture: "Matthew 26:17-29, Mark 14:12-25",
-      text: `[Matthew 26:17-29]
-17) Now on the first day of Unleavened Bread the disciples came to Jesus, saying, “Where will you have us prepare for you to eat the Passover?”
-
-18) He said, “Go into the city to a certain man and say to him, ‘The Teacher says, My time is at hand. I will keep the Passover at your house with my disciples.’”
-
-19) And the disciples did as Jesus had directed them, and they prepared the Passover.
-
-20) When it was evening, he reclined at table with the twelve.
-
-21) And as they were eating, he said, “Truly, I say to you, one of you will betray me.”
-
-22) And they were very sorrowful and began to say to him one after another, “Is it I, Lord?”
-
-23) He answered, “He who has dipped his hand in the dish with me will betray me.
-
-24) The Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”
-
-25) Judas, who would betray him, answered, “Is it I, Rabbi?” He said to him, “You have said so.”
-
-26) Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.”
-
-27) And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you,
-
-28) for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
-
-29) I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom.”
-
-
-[Mark 14:12-25]
+      scripture: "Mark 14:12-50",
+      text: `[Mark 14:12-50]
 12) And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?”
 
 13) And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him,
@@ -218,40 +143,86 @@ const meditationData = {
 
 24) And he said to them, “This is my blood of the covenant, which is poured out for many.”
 
-25) Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”`,
+25) Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”
+
+26) And when they had sung a hymn, they went out to the Mount of Olives. 
+
+27) And Jesus said to them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’ 
+
+28) But after I am raised up, I will go before you to Galilee.” 
+
+29) Peter said to him, “Even though they all fall away, I will not.” 
+
+30) And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.” 
+
+31) But he said emphatically, “If I must die with you, I will not deny you.” And they all said the same.
+
+32) And they went to a place called Gethsemane. And he said to his disciples, “Sit here while I pray.” 
+
+33) And he took with him Peter and James and John, and began to be greatly distressed and troubled. 
+
+34) And he said to them, “My soul is very sorrowful, even to death. Remain here and watch.” 
+
+35) And going a little farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him. 
+
+36) And he said, “Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will.” 
+
+37) And he came and found them sleeping, and he said to Peter, “Simon, are you asleep? Could you not watch one hour? 
+
+38) Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.” 
+
+39) And again he went away and prayed, saying the same words. 
+
+40) And again he came and found them sleeping, for their eyes were very heavy, and they did not know what to answer him. 
+
+41) And he came the third time and said to them, “Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners. 
+
+42) Rise, let us be going; see, my betrayer is at hand.”
+
+43) And immediately, while he was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders. 
+
+44) Now the betrayer had given them a sign, saying, “The one I will kiss is the man. Seize him and lead him away under guard.” 
+
+45) And when he came, he went up to him at once and said, “Rabbi!” And he kissed him. 
+
+46) And they laid hands on him and seized him. 
+
+47) But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear. 
+
+48) And Jesus said to them, “Have you come out as against a robber, with swords and clubs to capture me? 
+
+49) Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled.” 
+
+50) And they all left him and fled.`,
     },
     "Good-Friday": {
       enTitle: "Good Friday",
       date: "APRIL 3",
-      scripture: "Matthew 26:47-49, 27:27-31, Luke 23:44-47",
-      text: `[Matthew 26:47-49]
+      scripture: "Matthew 26:47-50, Mark 15:25-27, Luke 23:44-46",
+      text: `[Matthew 26:47-50]
 47) While he was still speaking, Judas came, one of the twelve, and with him a great crowd with swords and clubs, from the chief priests and the elders of the people.
 
 48) Now the betrayer had given them a sign, saying, “The one I will kiss is the man; seize him.”
 
 49) And he came up to Jesus at once and said, “Greetings, Rabbi!” And he kissed him.
 
-
-[Matthew 27:27-31]
-27) Then the soldiers of the governor took Jesus into the governor's headquarters, and they gathered the whole battalion before him.
-
-28) And they stripped him and put a scarlet robe on him,
-
-29) and twisting together a crown of thorns, they put it on his head and put a reed in his right hand. And kneeling before him, they mocked him, saying, “Hail, King of the Jews!”
-
-30) And they spit on him and took the reed and struck him on the head.
-
-31) And when they had mocked him, they stripped him of the robe and put his own clothes on him and led him away to crucify him.
+50) Jesus said to him, “Friend, do what you came to do.” Then they came up and laid hands on Jesus and seized him.
 
 
-[Luke 23:44-47]
+[Mark 15:25-27]
+25)And it was the third hour when they crucified him.
+
+26) And the inscription of the charge against him read, “The King of the Jews.”
+
+27) And with him they crucified two robbers, one on his right and one on his left.
+
+
+[Luke 23:44-46]
 44) It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,
 
 45) while the sun's light failed. And the curtain of the temple was torn in two.
 
-46) Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last.
-
-47) Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”`,
+46) Then Jesus, calling out with a loud voice, said, “Father, into your hands I commit my spirit!” And having said this he breathed his last.`,
     },
     Saturday: {
       enTitle: "Saturday",
@@ -281,30 +252,8 @@ const meditationData = {
     "Easter-Sunday": {
       enTitle: "Easter Sunday",
       date: "APRIL 5",
-      scripture: "Matthew 28:1-10, Luke 24:1-12",
-      text: `[Matthew 28:1-10]
-1) Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
-
-2) And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
-
-3) His appearance was like lightning, and his clothing white as snow.
-
-4) And for fear of him the guards trembled and became like dead men.
-
-5) But the angel said to the women, “Do not be afraid, for I know that you seek Jesus who was crucified.
-
-6) He is not here, for he has risen, as he said. Come, see the place where he lay.
-
-7) Then go quickly and tell his disciples that he has risen from the dead, and behold, he is going before you to Galilee; there you will see him. See, I have told you.”
-
-8) So they departed quickly from the tomb with fear and great joy, and ran to tell his disciples.
-
-9) And behold, Jesus met them and said, “Greetings!” And they came up and took hold of his feet and worshiped him.
-
-10) Then Jesus said to them, “Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me.”
-
-
-[Luke 24:1-12]
+      scripture: "Luke 24:1-12",
+      text: `[Luke 24:1-12]
 1) But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.
 
 2) And they found the stone rolled away from the tomb,
@@ -336,7 +285,7 @@ const meditationData = {
     "Palm-Sunday": {
       enTitle: "Palm Sunday",
       date: "MARCH 29",
-      scripture: "마태복음 21:1-11, 누가복음 19:28-40",
+      scripture: "마태복음 21:1-11",
       text: `[마태복음 21:1-11]
 1) 그들이 예루살렘에 가까이 가서 감람 산 벳바게에 이르렀을 때에 예수께서 두 제자를 보내시며
 
@@ -361,32 +310,7 @@ const meditationData = {
 11) 무리가 이르되 갈릴리 나사렛에서 나온 선지자 예수라 하니라
 
 
-[누가복음 19:28-40]
-28) 예수께서 이 말씀을 하시고 예루살렘을 향하여 앞서서 가시더라
-
-29) 감람원이라 불리는 산쪽에 있는 벳바게와 베다니에 가까이 가셨을 때에 제자 중 둘을 보내시며
-
-30) 이르시되 너희는 맞은편 마을로 가라 그리로 들어가면 아직 아무도 타 보지 않은 나귀 새끼가 매여 있는 것을 보리니 풀어 끌고 오라
-
-31) 만일 누가 너희에게 어찌하여 푸느냐 묻거든 말하기를 주가 쓰시겠다 하라 하시매
-
-32) 보내심을 받은 자들이 가서 그 말씀하신 대로 만난지라
-
-33) 나귀 새끼를 풀 때에 그 임자들이 이르되 어찌하여 나귀 새끼를 푸느냐
-
-34) 대답하되 주께서 쓰시겠다 하고
-
-35) 그것을 예수께로 끌고 와서 자기들의 겉옷을 나귀 새끼 위에 걸쳐 놓고 예수를 태우니
-
-36) 가실 때에 그들이 자기의 겉옷을 길에 펴더라
-
-37) 이미 감람 산 내리막길에 가까이 오시매 제자의 온 무리가 자기들이 본 바 모든 능한 일로 인하여 기뻐하며 큰 소리로 하나님을 찬양하여
-
-38) 이르되 찬송하리로다 주의 이름으로 오시는 왕이여 하늘에는 평화요 가장 높은 곳에는 영광이로다 하니
-
-39) 무리 중 어떤 바리새인들이 말하되 선생이여 당신의 제자들을 책망하소서 하거늘
-
-40) 대답하여 이르시되 내가 너희에게 말하노니 만일 이 사람들이 침묵하면 돌들이 소리 지르리라 하시니라`,
+`,
     },
     Monday: {
       enTitle: "Monday",
@@ -451,7 +375,7 @@ const meditationData = {
     Wednesday: {
       enTitle: "Wednesday",
       date: "APRIL 1",
-      scripture: "마태복음 26:14-16, 요한복음 13:3-11",
+      scripture: "마태복음 26:14-16",
       text: `[마태복음 26:14-16]
 14) 그 때에 열둘 중의 하나인 가룟 유다라 하는 자가 대제사장들에게 가서 말하되
 
@@ -460,94 +384,120 @@ const meditationData = {
 16) 그가 그 때부터 예수를 넘겨 줄 기회를 찾더라
 
 
-[요한복음 13:3-11]
-3) 저녁 먹는 중 예수는 아버지께서 모든 것을 자기 손에 맡기신 것과 또 자기가 하나님께로부터 오셨다가 하나님께로 돌아가실 것을 아시고
-
-4) 저녁 잡수시던 자리에서 일어나 겉옷을 벗고 수건을 가져다가 허리에 두르시고
-
-5) 이에 대야에 물을 떠서 제자들의 발을 씻으시고 그 두르신 수건으로 닦기를 시작하여
-
-6) 시몬 베드로에게 이르시니 베드로가 이르되 주여 주께서 내 발을 씻으시나이까
-
-7) 예수께서 대답하여 이르시되 내가 하는 것을 네가 지금은 알지 못하나 이 후에는 알리라
-
-8) 베드로가 이르되 내 발을 절대로 씻지 못하시리이다 예수께서 대답하시되 내가 너를 씻어 주지 아니하면 네가 나와 상관이 없느니라
-
-9) 시몬 베드로가 이르되 주여 내 발뿐 아니라 손과 머리도 씻어 주옵소서
-
-10) 예수께서 이르시되 이미 목욕한 자는 발밖에 씻을 필요가 없느니라 온 몸이 깨끗하니라 너희가 깨끗하나 다는 아니니라 하시니
-
-11) 이는 자기를 팔 자가 누구인지 아심이라 그러므로 다는 깨끗하지 아니하다 하시니라`,
+`,
     },
     Thursday: {
       enTitle: "Thursday",
       date: "APRIL 2",
-      scripture: "마태복음 26:17-29, 마가복음 14:12-25",
-      text: `[마태복음 26:17-29]
-17) 무교절의 첫날에 제자들이 예수께 나아와서 이르되 유월절 음식 잡수실 것을 우리가 어디서 준비하기를 원하시나이까
-
-18) 이르시되 성안 아무에게 가서 이르되 선생님 말씀이 내 때가 가까이 왔으니 내 제자들과 함께 유월절을 네 집에서 지키겠다 하시더라 하라 하시니
-
-19) 제자들이 예수께서 시키신 대로 하여 유월절을 준비하였더라
-
-20) 저물 때에 예수께서 열두 제자와 함께 앉으셨더니
-
-21) 그들이 먹을 때에 이르시되 내가 진실로 너희에게 이르노니 너희 중의 한 사람이 나를 팔리라 하시니
-
-22) 그들이 몹시 근심하여 각각 여짜오되 주여 나는 아니지요
-
-23) 대답하여 이르시되 나와 함께 그릇에 손을 넣는 그가 나를 팔리라
-
-24) 인자는 자기에 대하여 기록된 대로 가거니와 인자를 파는 그 사람에게는 화가 있으리로다 그 사람은 차라리 태어나지 아니하였더라면 제게 좋을 뻔하였느니라
-
-25) 예수를 파는 유다가 대답하여 이르되 랍비여 나는 아니지요 대답하시되 네가 말하였도다 하시니라
-
-26) 그들이 먹을 때에 예수께서 떡을 가지사 축복하시고 떼어 제자들에게 주시며 이르시되 받아서 먹으라 이것은 내 몸이니라 하시고
-
-27) 또 잔을 가지사 감사 기도 하시고 그들에게 주시며 이르시되 너희가 다 이것을 마시라
-
-28) 이것은 죄 사함을 얻게 하려고 많은 사람을 위하여 흘리는 바 나의 피 곧 언약의 피니라
-
-29) 그러나 너희에게 이르노니 내가 포도나무에서 난 것을 이제부터 내 아버지의 나라에서 새것으로 너희와 함께 마시는 날까지 마시지 아니하리라 하시니라
-
-
-[마가복음 14:12-25]
+      scripture: "마가복음 14:12-50",
+      text: `[마가복음 14:12-50]
 12) 무교절의 첫날 곧 유월절 양 잡는 날에 제자들이 예수께 여짜오되 우리가 어디로 가서 선생님께서 유월절 음식을 잡수시게 준비하기를 원하시나이까 하매
 
-13) 예수께서 제자 중의 둘을 보내시며 이르시되 성내로 들어가라... (생략)`,
+13) 예수께서 제자 중의 둘을 보내시며 이르시되 성내로 들어가라 그리하면 물 한 동이를 가지고 가는 사람을 만나리니 그를 따라가서
+
+14) 어디든지 그가 들어가는 그 집 주인에게 이르되 선생님의 말씀이 내가 내 제자들과 함께 유월절 음식을 먹을 나의 객실이 어디 있느냐 하시더라 하라
+
+15) 그리하면 자리를 펴고 준비한 큰 다락방을 보이리니 거기서 우리를 위하여 준비하라 하시니
+
+16) 제자들이 나가 성내로 들어가서 예수께서 하시던 말씀대로 만나 유월절 음식을 준비하니라
+
+17) 저물매 그 열둘을 데리시고 가서
+
+18) 다 앉아 먹을 때에 예수께서 이르시되 내가 진실로 너희에게 이르노니 너희 중의 한 사람 곧 나와 함께 먹는 자가 나를 팔리라 하신대
+
+19) 그들이 근심하며 하나씩 하나씩 나는 아니지요 하고 말하기 시작하니
+
+20) 그들에게 이르시되 열둘 중의 하나 곧 나와 함께 그릇에 손을 넣는 자니라
+
+21) 인자는 자기에 대하여 기록된 대로 가거니와 인자를 파는 그 사람에게는 화가 있으리로다 그 사람은 차라리 나지 아니하였더라면 자기에게 좋을 뻔하였느니라 하시니라
+
+22) 그들이 먹을 때에 예수께서 떡을 가지사 축복하시고 떼어 제자들에게 주시며 이르시되 받으라 이것은 내 몸이니라 하시고
+
+23) 또 잔을 가지사 감사 기도 하시고 그들에게 주시니 다 이를 마시매
+
+24) 이르시되 이것은 많은 사람을 위하여 흘리는 나의 피 곧 언약의 피니라
+
+25) 진실로 너희에게 이르노니 내가 포도나무에서 난 것을 하나님 나라에서 새 것으로 마시는 날까지 다시 마시지 아니하리라 하시니라
+
+26) 이에 그들이 찬미하고 감람 산으로 가니라
+
+27) 예수께서 제자들에게 이르시되 너희가 다 나를 버리리라 이는 기록된 바 내가 목자를 치리니 양들이 흩어지리라 하였음이니라
+
+28) 그러나 내가 살아난 후에 너희보다 먼저 갈릴리로 가리라
+
+29) 베드로가 여짜오되 다 버릴지라도 나는 그리하지 않겠나이다
+
+30) 예수께서 이르시되 내가 진실로 네게 이르노니 오늘 이 밤 닭이 두 번 울기 전에 네가 세 번 나를 부인하리라
+
+31) 베드로가 힘있게 말하되 내가 주와 함께 죽을지언정 주를 부인하지 않겠나이다 하고 모든 제자도 이와 같이 말하니라
+
+32) 그들이 겟세마네라 하는 곳에 이르매 예수께서 제자들에게 이르시되 내가 기도할 동안에 너희는 여기 앉아 있으라 하시고
+
+33) 베드로와 야고보와 요한을 데리고 가실새 심히 놀라시며 슬퍼하사
+
+34) 말씀하시되 내 마음이 심히 고민하여 죽게 되었으니 너희는 여기 머물러 깨어 있으라 하시고
+
+35) 조금 나아가사 땅에 엎드리어 될 수 있는 대로 이 때가 자기에게서 지나가기를 구하여
+
+36) 이르시되 아빠 아버지여 아버지께는 모든 것이 가능하오니 이 잔을 내게서 옮기시옵소서 그러나 나의 원대로 마시옵고 아버지의 원대로 하옵소서 하시고
+
+37) 돌아오사 제자들이 자는 것을 보시고 베드로에게 말씀하시되 시몬아 자느냐 네가 한 시간도 깨어 있을 수 없더냐
+
+38) 시험에 들지 않게 깨어 있어 기도하라 마음에는 원이로되 육신이 약하도다 하시고
+
+39) 다시 나아가 동일한 말씀으로 기도하시고
+
+40) 다시 오사 보신즉 그들이 자니 이는 그들의 눈이 심히 피곤함이라 그들이 예수께 무엇으로 대답할 줄을 알지 못하더라
+
+41) 세 번째 오사 그들에게 이르시되 이제는 자고 쉬라 그만 되었다 때가 왔도다 보라 인자가 죄인의 손에 팔리느니라
+
+42) 일어나라 함께 가자 보라 나를 파는 자가 가까이 왔느니라
+
+43) 예수께서 말씀하실 때에 곧 열둘 중의 하나인 유다가 왔는데 대제사장들과 서기관들과 장로들에게서 파송된 무리가 검과 몽치를 가지고 그와 함께 하였더라
+
+44) 예수를 파는 자가 이미 그들과 군호를 짜 이르되 내가 입맞추는 자가 그이니 그를 잡아 단단히 끌어 가라 하였는지라
+
+45) 이에 와서 곧 예수께 나아와 랍비여 하고 입을 맞추니	
+
+46) 그들이 예수께 손을 대어 잡거늘
+
+47) 곁에 서 있는 자 중의 한 사람이 칼을 빼어 대제사장의 종을 쳐 그 귀를 떨어뜨리니라
+
+48) 예수께서 무리에게 말씀하여 이르시되 너희가 강도를 잡는 것 같이 검과 몽치를 가지고 나를 잡으러 나왔느냐
+
+49) 내가 날마다 너희와 함께 성전에 있으면서 가르쳤으되 너희가 나를 잡지 아니하였도다 그러나 이는 성경을 이루려 함이니라 하시더라
+
+50) 제자들이 다 예수를 버리고 도망하니라
+`,
     },
     "Good-Friday": {
       enTitle: "Good Friday",
       date: "APRIL 3",
-      scripture: "마태복음 26:47-49, 27:27-31, 누가복음 23:44-47",
-      text: `[마태복음 26:47-49]
+      scripture: "마태복음 26:47-50, 마가복음 15:25-27, 누가복음 23:44-46",
+      text: `[마태복음 26:47-50]
 47) 말씀하실 때에 열둘 중의 하나인 유다가 왔는데 대제사장들과 백성의 장로들에게서 파송된 큰 무리가 칼과 몽치를 가지고 그와 함께 하였더라
 
 48) 예수를 파는 자가 그들에게 군호를 짜 이르되 내가 입맞추는 자가 그이니 그를 잡으라 한지라
 
 49) 곧 예수께 나아와 랍비여 안녕하시옵니까 하고 입을 맞추니
 
-
-[마태복음 27:27-31]
-27) 이에 총독의 군병들이 예수를 데리고 관정 안으로 들어가서 온 군대를 그에게로 모으고
-
-28) 그의 옷을 벗기고 홍포를 입히며
-
-29) 가시관을 엮어 그 머리에 씌우고 갈대를 그 오른손에 들리고 그 앞에서 무릎을 꿇고 희롱하여 이르되 유대인의 왕이여 평안할지어다 하며
-
-30) 그에게 침 뱉고 갈대를 빼앗아 그의 머리를 치더라
-
-31) 희롱을 다 한 후 홍포를 벗기고 도로 그의 옷을 입혀 십자가에 못 박으려고 끌고 나가니라
+50) 예수께서 이르시되 친구여 네가 무엇을 하려고 왔는지 행하라 하신대 이에 그들이 나아와 예수께 손을 대어 잡는지라
 
 
-[누가복음 23:44-47]
+[마가복음 15:25-27]
+25) 때가 제삼시가 되어 십자가에 못 박으니라
+
+26) 그 위에 있는 죄패에 유대인의 왕이라 썼고
+
+27) 강도 둘을 예수와 함께 십자가에 못 박으니 하나는 그의 우편에, 하나는 좌편에 있더라
+
+
+[누가복음 23:44-46]
 44) 때가 제육시쯤 되어 해가 빛을 잃고 온 땅에 어둠이 임하여 제구시까지 계속하며
 
 45) 성소의 휘장이 한가운데가 찢어지더라
 
-46) 예수께서 큰 소리로 불러 이르시되 아버지 내 영혼을 아버지 손에 부탁하나이다 하고 이 말씀을 하신 후 숨지시니라
-
-47) 백부장이 그 된 일을 보고 하나님께 영광을 돌려 이르되 이 사람은 정녕 의인이었도다 하고`,
+46) 예수께서 큰 소리로 불러 이르시되 아버지 내 영혼을 아버지 손에 부탁하나이다 하고 이 말씀을 하신 후 숨지시니라`,
     },
     Saturday: {
       enTitle: "Saturday",
@@ -577,30 +527,8 @@ const meditationData = {
     "Easter-Sunday": {
       enTitle: "Easter Sunday",
       date: "APRIL 5",
-      scripture: "마태복음 28:1-10, 누가복음 24:1-12",
-      text: `[마태복음 28:1-10]
-1) 안식일이 다 지나고 안식 후 첫날이 되려는 새벽에 막달라 마리아와 다른 마리아가 무덤을 보려고 갔더니
-
-2) 큰 지진이 나며 주의 천사가 하늘로부터 내려와 돌을 굴려 내고 그 위에 앉았는데
-
-3) 그 형상이 번개 같고 그 옷은 눈 같이 희거늘
-
-4) 지키던 자들이 그를 무서워하여 떨며 죽은 사람과 같이 되었더라
-
-5) 천사가 여자들에게 말하여 이르되 너희는 무서워하지 말라 십자가에 못 박히신 예수를 너희가 찾는 줄을 내가 아노라
-
-6) 그가 여기 계시지 않고 그가 말씀 하시던 대로 살아나셨느니라 와서 그가 누우셨던 곳을 보라
-
-7) 또 빨리 가서 그의 제자들에게 이르되 그가 죽은 자 가운데서 살아나셨고 너희보다 먼저 갈릴리로 가시나니 거기서 너희가 뵈오리라 하라 보라 내가 너희에게 일렀느니라 하거늘
-
-8) 그 여자들이 무서움과 큰 기쁨으로 빨리 무덤을 떠나 제자들에게 알리려고 달음질할새
-
-9) 예수께서 그들을 만나 이르시되 평안하냐 하시거늘 여자들이 나아가 그 발을 붙잡고 경배하니
-
-10) 이에 예수께서 이르시되 무서워하지 말라 가서 내 형제들에게 갈릴리로 가라 하라 거기서 나를 보리라 하시니라
-
-
-[누가복음 24:1-12]
+      scripture: "누가복음 24:1-12",
+      text: `[누가복음 24:1-12]
 1) 안식 후 첫날 새벽에 이 여자들이 그 준비한 향품을 가지고 무덤에 가서
 
 2) 돌이 무덤에서 굴려 옮겨진 것을 보고

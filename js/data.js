@@ -1120,7 +1120,7 @@ const meditationData = {
     "Good-Friday": {
       enTitle: "Good Friday",
       date: "APRIL 3",
-      scripture: "Mateo 26:47-50, Lucas 23:44-46",
+      scripture: "Mateo 26:47-50, Marcos 15:25-27, Lucas 23:44-46",
       text: `[Mateo 26:47-50]
 47) Mientras todavía hablaba, vino Judas, uno de los doce, y con él mucha gente con espadas y palos, de parte de los principales sacerdotes y de los ancianos del pueblo. 
 
@@ -1129,6 +1129,14 @@ const meditationData = {
 49) Y en seguida se acercó a Jesús y dijo: ¡Salve, Maestro! Y le besó.
 
 50) Y Jesús le dijo: Amigo, ¿a qué vienes? Entonces se acercaron y echaron mano a Jesús, y le prendieron.
+
+
+[Marcos 15:25-27]
+25) Era la hora tercera cuando le crucificaron. 
+
+26) Y el título escrito de su causa era: EL REY DE LOS JUDÍOS. 
+
+27) Crucificaron también con él a dos ladrones, uno a su derecha, y el otro a su izquierda.
 
 
 [Lucas 23:44-46]
